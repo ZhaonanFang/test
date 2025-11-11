@@ -1,4 +1,4 @@
 # test
 repo for testing GitHub setup
 
-Message from dev1 that conflicts with dev1
+Message from dev2 that conflicts with dev1
