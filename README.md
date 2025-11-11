@@ -1,4 +1,4 @@
 # test
 repo for testing GitHub setup
 
-Delete commit message
+Message from dev1 that conflicts with dev1
