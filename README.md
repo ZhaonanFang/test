@@ -1,4 +1,4 @@
 # test
 repo for testing GitHub setup
 
-This is a message from dev1
+Message from dev2 that conflicts with dev1
